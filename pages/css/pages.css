@@ -134,3 +134,16 @@ button:hover {
   top: 0;
   width: 100%;
 }
+	
+	
+	
+.button {
+    background-color: #603696;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}	
